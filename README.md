@@ -5,6 +5,6 @@ This repository contains a Python implementation of Q-learning for finding the o
 ### Structure
 
 - **📃README.md**: This file you're reading, providing an overview of the project and how to use it.
-- **🧑‍💻main/**: Contains the main script (`dynamic-maze-optimum-path-qL.py`) implementing the Q-learning algorithm.
-- **🖼screenshots/**: Output screenshots.
+- **🧑‍💻main/**: Contains the main script `dynamic-maze-optimum-path-qL.py` for implementing the Q-learning algorithm and the file `enviroment-parameters.md` which gives a small info about the enviroment parameters.
+- **🖼screenshots/**: Output screenshots in file `output-screenshots` as well as a file named `description.md` which describes the output.
 
